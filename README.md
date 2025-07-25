@@ -1,1 +1,1 @@
-# NFL-Team-Schedules-And-Scores
+# NFL-Team-Schedules
